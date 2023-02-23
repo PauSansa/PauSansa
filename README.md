@@ -1,4 +1,4 @@
-# Pau Sansa Verdú
+# Contact
 
 <br>
 
@@ -18,7 +18,7 @@
 
 <br>
 
-![GIf](media/wallpaper1.gif)
+
 <!--
 **PauSansa/PauSansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
