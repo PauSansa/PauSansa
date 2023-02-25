@@ -1,35 +1,25 @@
-# Contact
-
-<br>
-
-<div align="center">
-  <a href="https://discordapp.com/users/1019274804362215464" alt="Send me a DM!">
-    <img src="./media/discord.svg" width=25 />
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Pau Sansa</h1l>
+ <p align="center"><br/>
+   <a href="https://www.linkedin.com/in/sachuverma/">
+    <img src="https://img.shields.io/badge/linkedin-pausansa-blue">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/pausansa/">
-    <img src="./media/linkedin.svg" width=25 alt="Visit my LinkedIn!"/>
+  
+  <a href="https://www.instagram.com/sachuverma_/">
+    <img src="https://img.shields.io/badge/instagram-sachuverma_-red">
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:pausansa59@gmail.com">
-    <img src="./media/gmail.svg" width=25 alt="Send me an email!" />
-  </a>
-</div>
+</p>
 
-<br>
+<h3 align="center">A passionate Backend Student from Barcelona</h3>
+<h3 align="center">Studying in IT Academy (Barcelona Activa)</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=pausansa alt=sachinverma53121/></p>
 
 
-<!--
-**PauSansa/PauSansa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **vKarma Webapp**
+- 🌱 I’m currently learning ... **Django and React.js**
+- 💬 Ask me about ... **Web Develpoment**
+- 😄 Employement ... **Open for intern opportunities**
+- ⚡ Fun fact ... **Anime**❤
+- 📫 How to reach me **sachinverma53121@gmail.com**
