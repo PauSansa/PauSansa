@@ -21,3 +21,5 @@
 - 💬 About Me ... **I love coding and ecommerce**
 - 😄 Employement ... **Open for intern opportunities**
 - 📫 How to reach me **pausansa59@gmail.com**
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pausansa&layout=compact)
