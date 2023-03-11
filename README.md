@@ -2,7 +2,7 @@
  <p align="center"><br/>
    <a href="https://www.linkedin.com/in/sachuverma/">
     <img src="https://img.shields.io/badge/linkedin-pausansa-blue">
-  </a>
+   </a>
   
   <a href="https://discord.com/users/1019274804362215464">
     <img src="https://img.shields.io/badge/discord-pausansa-blueviolet">
@@ -11,6 +11,7 @@
 
 <h3 align="center">A passionate Backend Student from Barcelona</h3>
 <h3 align="center">Studying in IT Academy (Barcelona Activa)</h3>
+
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=pausansa alt=pausansa/></p>
 
 
@@ -22,6 +23,6 @@
 - 😄 Employement ... **Open for intern opportunities**
 - 📫 How to reach me **pausansa59@gmail.com**
 
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pausansa&layout=compact)
-</div>
+
+
+
