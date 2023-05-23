@@ -8,7 +8,7 @@ I am a Backend Developer with Java Spring who enjoys challenges and loves the wo
 <br>
 
 
-- 🔭 I’m currently working on [IT Academy Challenges]([https://github.com/PauSansa/DiceGam](https://github.com/IT-Academy-BCN/ita-challenges-backend)e)
+- 🔭 I’m currently working on [IT Academy Challenges](https://github.com/PauSansa/DiceGam](https://github.com/IT-Academy-BCN/ita-challenges-backend)
 
 - 🌱 I’m currently learning [Specialitzacion of Java Backend with Spring](https://cibernarium.barcelonactiva.cat/it-academy/inscripcio;jsessionid=55ED747D08ED8E6C1ABC037FA363B3B7?p_p_id=activitiesbycode_WAR_cibernariumportlet&p_p_lifecycle=2&p_p_state=normal&p_p_mode=view&p_p_cacheability=cacheLevelPage&p_p_col_id=column-1&p_p_col_pos=1&p_p_col_count=2&_activitiesbycode_WAR_cibernariumportlet_id=891970)
 
