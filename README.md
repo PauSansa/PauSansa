@@ -1,9 +1,9 @@
 <h1 align="center">I'm Pau Sansa</h1>
-<h3 align="center">A proactive Java Backend Developer From Barcelona</h3>
+<h3 align="center">A proactive Fullstack Developer From Barcelona</h3>
 
 <br>
 
-I am a Backend Developer with Java Spring who enjoys challenges and loves the world of programming. I consider myself a very active and hardworking person. Currently, I am specializing in backend with Java Spring (ending in May) and **I am looking for a job**. I have a C1 level of English.
+I'm a passionate Full Stack Developer with a focus on creating robust, scalable applications. Currently, I’m working with Spring (Java) and Angular (JavaScript) in my role at Accenture, where I've been contributing since February 2024. While I enjoy working with these technologies professionally, I often turn to React for my side projects, where I can explore new ideas and refine my skills.
 
 <br>
 
@@ -12,7 +12,7 @@ I am a Backend Developer with Java Spring who enjoys challenges and loves the wo
 
 - 📫 How to reach me **pausansa59@gmail.com**
 
-- ⚡ Current Status **Looking for a Job**
+- ⚡ Current Status **Working at Accenture**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
